@@ -7,9 +7,9 @@ It was built using **C# (.NET Framework)** and **SQLite**.
 📌 The entire project is written in **Greek**, as it was a university assignment.
 
 ## 🎬 Demo
-📁 [landingpage.mp4](assets/landingpage.mp4)
+![Demo](assets/landingpage.gif)
 
-## ▶️ How to Run
+## ▶️ How to run
 1. Open the `.sln` file in Visual Studio  
 2. Build and run the application
 
@@ -18,6 +18,3 @@ It was built using **C# (.NET Framework)** and **SQLite**.
 - SQLite  
 - Visual Studio
 
-## 🪪 License
-Free to use – see `LICENSE`  
-MIT License – provided *as-is*, without any warranty.
