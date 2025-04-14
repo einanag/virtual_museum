@@ -1,0 +1,23 @@
+# 🏛️ Virtual Museum
+
+This project was developed as part of the **Human-Computer Interaction** course in the Master's program at the University of Piraeus.
+
+It was built using **C# (.NET Framework)** and **SQLite**.
+
+📌 The entire project is written in **Greek**, as it was a university assignment.
+
+## 🎬 Demo
+📁 [landingpage.mp4](assets/landingpage.mp4)
+
+## ▶️ How to Run
+1. Open the `.sln` file in Visual Studio  
+2. Build and run the application
+
+## ⚙️ Technologies
+- C# (.NET Framework)  
+- SQLite  
+- Visual Studio
+
+## 🪪 License
+Free to use – see `LICENSE`  
+MIT License – provided *as-is*, without any warranty.
