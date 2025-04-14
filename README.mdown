@@ -4,12 +4,12 @@ This project was developed as part of the **Human-Computer Interaction** course 
 
 It was built using **C# (.NET Framework)** and **SQLite**.
 
-📌 The entire project is uses  **Greek** in its entire UI and navigation, as it was a university assignment.
+The entire project is uses  **Greek** in its entire UI and navigation, as it was a university assignment.
 
-## 🎬 Demo
+## Demo
 ![Demo](assets/landingpage.gif)
 
-## ▶️ How to run
+## How to run:
 1. Open the `.sln` file in Visual Studio  
 2. Build and run the application
 
